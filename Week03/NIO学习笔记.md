@@ -145,3 +145,11 @@ public class HttpServer03 {
 
 <img src="./image/服务器通信过程分析.png" alt="服务器通信过程分析" style="zoom:150%;" />
 
+**我们可以采用流水线的方式，专门的线程做专门的事**
+
+## NIO模型与相关概念
+
+### 五种IO模型
+
+<img src=".\image\五种IO模型.png" alt="5种IO模型" style="zoom:150%;" />
+
