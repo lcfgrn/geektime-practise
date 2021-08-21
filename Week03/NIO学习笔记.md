@@ -153,3 +153,15 @@ public class HttpServer03 {
 
 <img src=".\image\五种IO模型.png" alt="5种IO模型" style="zoom:150%;" />
 
+#### 阻塞
+
+线程处理模式，一旦接收到请求，处理完成后才能处理下一个请求
+
+#### 同步
+
+通信模式
+
+#### IO模型-01 阻塞式IO、BIO
+
+<img src=".\image\IO模型-01.png" alt="IO模型01" style="zoom:150%;" />
+
